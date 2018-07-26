@@ -9,7 +9,7 @@ body {
 
 p {
   color: gray;
-  font-size: 21px;
+  font-size: 23px;
 }
 
 a {
@@ -23,34 +23,18 @@ a:hover {
   background-color: Aquamarine;
 }
 
-.bold {
-  font-weight: bold;
-}
-
-.main {
+h1 {
   font-size: 50px;
+  font-weight: normal;
 }
 
-.second {
+h2 {
   font-size: 42px;
-}
-
-img {
-  padding: 20px;
-  position: relative;
-}
-
-.camp {
-  z-index: 1;
-}
-
-.phone {
-  z-index: 3;
+  font-weight: 300;
 }
 
 footer {
   text-align: right;
   color: gray;
   font-size: 24px;
-  margin: 21px;
 }
