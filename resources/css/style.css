@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: block;
+  margin: 10px;
+  font-family: Verdana, sans-serif;
+
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.phlogo {
+  display: inline;
+  height: 108px;
+  width: 64px;
+}
+
+footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
